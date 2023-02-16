@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "One Big Self " ] },
+    "summary": { "en": [ "This project contextualizes a recording of CD Wright reading from One Big Self: An Investigation. It also tests AA's use of audio from GitHub" ] },
+    "items": [
+    ]
+}
