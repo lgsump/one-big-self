@@ -8,6 +8,16 @@
         "id": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "type": "Canvas",
         "duration": 156.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/one-big-self/annotations/atomic-power-canvas-1-notes.json",
+            "label": {
+              "none": ["Notes"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/paintings",
