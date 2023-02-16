@@ -33,7 +33,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://github.com/zillingworth/cd-wright/blob/main/CD-Wright-From-One-Big-Self_Beinecke-Library_Yale_2-3-04.mp3",
+                  "id": "https://github.com/zillingworth/cd-wright/blob/main/CD-Wright-From-One-Big-Self_Beinecke-Library_Yale_2-3-04.mp3?raw=true",
                   "type": "Sound",
                   "format": "audio/mp3",
                     "duration": 316.0
