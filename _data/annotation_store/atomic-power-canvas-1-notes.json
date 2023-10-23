@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://zillingworth.github.io/one-big-self/annotations/atomic-power-canvas-1-notes.json",
+  "id": "https://lgsump.github.io/one-big-self/annotations/atomic-power-canvas-1-notes.json",
   "type": "AnnotationPage",
   "label": "Notes",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "0,7"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "10"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "10,27"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "27,45"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "46,61"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "61,78"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "79,95"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "96,113"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "114,131"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "132,149"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zillingworth.github.io/one-big-self/atomic-power/canvas-1/canvas",
+        "source": "https://lgsump.github.io/one-big-self/atomic-power/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "150"

@@ -1,29 +1,29 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://zillingworth.github.io/one-big-self/lasky/manifest.json",
+    "id": "https://lgsump.github.io/one-big-self/lasky/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Lasky" ] },
     "items": [
       {
-        "id": "https://zillingworth.github.io/one-big-self/lasky/canvas-1/canvas",
+        "id": "https://lgsump.github.io/one-big-self/lasky/canvas-1/canvas",
         "type": "Canvas",
         "duration": 45,
         "items": [
           {
-            "id": "https://zillingworth.github.io/one-big-self/lasky/canvas-1/paintings",
+            "id": "https://lgsump.github.io/one-big-self/lasky/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://zillingworth.github.io/one-big-self/lasky/canvas-1/painting",
+                "id": "https://lgsump.github.io/one-big-self/lasky/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://github.com/zillingworth/practice-repo/blob/main/Lasky-Dorothea_06_Your-Heart_Emergency-Poetry-Series_KWH-UPenn_01-17-2008.mp3?raw=true",
+                  "id": "https://github.com/lgsump/practice-repo/blob/main/Lasky-Dorothea_06_Your-Heart_Emergency-Poetry-Series_KWH-UPenn_01-17-2008.mp3?raw=true",
                   "type": "Sound",
                   "format": "audio/mp3",
                     "duration": 45
                 },
-                "target": "https://zillingworth.github.io/one-big-self/lasky/canvas-1/canvas"
+                "target": "https://lgsump.github.io/one-big-self/lasky/canvas-1/canvas"
               }
             ]
           }
